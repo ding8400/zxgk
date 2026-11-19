@@ -1,0 +1,34 @@
+{
+  "brand": "正心工控",
+  "version": "1.0",
+  "date": "2026-11-18",
+  "colors": {
+    "graphite": "#0F1720",
+    "orange": "#FF6A00",
+    "white": "#FFFFFF",
+    "neutral": "#F5F6F7",
+    "black": "#000000"
+  },
+  "geometry": {
+    "viewBox": [
+      0,
+      0,
+      96,
+      96
+    ],
+    "baseUnit": 6,
+    "axialStroke": 12,
+    "clearSpaceInsideViewBox": 12,
+    "diagonalAngleDegrees": 45
+  },
+  "recommendedMinimumsPx": {
+    "symbol": 16,
+    "horizontalWidth": 160,
+    "verticalWidth": 120
+  },
+  "font": {
+    "family": "Noto Sans CJK SC",
+    "weight": "Bold",
+    "delivery": "outlines"
+  }
+}
